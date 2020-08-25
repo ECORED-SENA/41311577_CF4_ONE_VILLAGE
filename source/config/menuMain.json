@@ -1,0 +1,158 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion1",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion1"],
+    "path": "pages/intro1.html"
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "guia1",
+    "title": "1. Guía de negocio colectivo para la gestión de mi producto",
+    "breadcrumb": ["Inicio","guia1"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Objetivos de la guía",
+        "anchor": "objetivos1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Sobre negocio colectivo",
+        "anchor": "sobre"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Asuntos preliminares",
+        "anchor": "asuntos"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Estructuración del modelo de negocio",
+        "anchor": "estructuracion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Plan de gestión de mediano plazo",
+        "anchor": "plan"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Materialización del negocio colectivo (NC)",
+        "anchor": "materializacion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia1",
+        "title": "Herramientas de Fortalecimiento – Caso OVOP Colombia",
+        "anchor": "herramientas"
+      }
+    ]
+  },
+  { 
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion2",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion2"],
+    "path": "pages/intro2.html"
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "guia2",
+    "title": "2. Guía para el análisis de actores",
+    "breadcrumb": ["Inicio","guia2"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia2",
+        "title": "Objetivos de la guía",
+        "anchor": "objetivos2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia2",
+        "title": "Conceptos",
+        "anchor": "conceptos2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia2",
+        "title": "Condiciones previas",
+        "anchor": "condiciones"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia2",
+        "title": "Desarrollo del taller",
+        "anchor": "desarrollo"
+      }
+    ]
+  },
+  { 
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion3",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","introduccion3"],
+    "path": "pages/intro3.html"
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-file-text",
+    "slug": "guia3",
+    "title": "3. Guía de estrategia de marca territorial",
+    "breadcrumb": ["Inicio","guia3"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia3",
+        "title": "Objetivos de la guía",
+        "anchor": "objetivos3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia3",
+        "title": "Conceptos de referencia",
+        "anchor": "conceptos3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia3",
+        "title": "Asuntos preliminares",
+        "anchor": "asuntos2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia3",
+        "title": "Desarrollo del taller",
+        "anchor": "desarrollo2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "guia3",
+        "title": "Experiencias OVOP",
+        "anchor": "experiencias"
+      }
+    ]
+  }
+]
